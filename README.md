@@ -1,5 +1,10 @@
 This is an integrated React-PHP HR Application
 
+## PHP & MYSQL Version
+
+PHP: 8.0.3
+MySQL: 8
+
 ## APACHE VHOST SETUP
 
 <VirtualHost \*:8080>
